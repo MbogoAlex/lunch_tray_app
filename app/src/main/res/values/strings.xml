@@ -1,0 +1,42 @@
+<resources>
+    <string name="start_order">Start Order</string>
+    <string name="app_name">Lunch Tray app</string>
+    <string name="cauliflower">Cauliflower</string>
+    <string name="cauliflower_desc">Golden-fried cauliflower, a crispy delight. Savory tempura, tender inside, paired with zesty aioli perfection.</string>
+    <string name="three_bean_chili">Three Bean Chili</string>
+    <string name="three_bean_chili_desc">Savor the heartwarming trio: black, kidney, and pinto beans harmonize in a spicy, flavorful chili symphony.</string>
+    <string name="mushroom_pasta">Mushroom Pasta</string>
+    <string name="mushroom_pasta_desc">Indulge in creamy mushroom pasta – earthy mushrooms, al dente pasta, and velvety sauce embrace perfection.</string>
+    <string name="spicy_black_bean_skillet">Spicy Black Bean Skillet</string>
+    <string name="spicy_black_bean_skillet_desc">Spicy Black Bean Skillet: Bold flavors unite in a sizzling dance of black beans and fiery spices.</string>
+    <string name="summer_salad">Summer Salad</string>
+    <string name="summer_salad_desc">Summer Salad: Crisp greens, juicy tomatoes, and vibrant veggies join forces in a refreshing symphony of flavors.</string>
+    <string name="butternut_squash_soup">Butternut Squash Soup</string>
+    <string name="butternut_squash_soup_desc">Butternut Squash Soup: A velvety blend of roasted squash, warming spices, and comfort in every spoonful.</string>
+    <string name="spicy_potatoes">Spicy Potatoes</string>
+    <string name="spicy_potatoes_desc">Spicy Potatoes: Crispy on the outside, tender inside, each bite ignites a flavorful dance of heat.</string>
+    <string name="coconut_rice">Coconut Rice</string>
+    <string name="coconut_rice_desc">Coconut Rice: Fragrant grains infused with creamy coconut, a tropical escape in every mouthful.</string>
+    <string name="lunch_roll">Lunch Roll</string>
+    <string name="lunch_roll_desc">Lunch Roll: A tantalizing fusion of fresh ingredients, tightly rolled for a bite-sized burst of flavors.</string>
+    <string name="mixed_berries">Mixed Berries</string>
+    <string name="mixed_berries_desc">Mixed Berries Bliss: A medley of nature\'s jewels—sweet strawberries, plump blueberries, and luscious raspberries. Pure delight!</string>
+    <string name="pickled_veggies">Pickled Veggies</string>
+    <string name="pickled_veggies_desc">Pickled Veggies: Tangy, crisp, and bursting with zesty goodness. A refreshing twist for your taste buds.</string>
+    <string name="order_summary_details">Order Summary\n %1$s  $s\n %2$s  $s\n %3$s  $s\n Subtotal: %s\n Tax: %s\n Total: %s\n</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="share">Share food item</string>
+    <string name="subtotal">Subtotal: %s</string>
+    <string name="tax">Tax: %s</string>
+    <string name="total">Total: %s</string>
+    <string name="cancel">Cancel</string>
+    <string name="next">Next</string>
+    <string name="submit">Submit</string>
+    <string name="previous_screen">Previous Screen</string>
+    <string name="lunch_tray">Lunch Tray</string>
+    <string name="choose_entry">Choose Entree</string>
+    <string name="choose_side_dish">Choose Side Dish</string>
+    <string name="choose_accompaniment">Choose Accompaniment</string>
+    <string name="order_checkout">Order Checkout</string>
+
+</resources>
